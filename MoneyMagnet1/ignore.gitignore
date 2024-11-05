@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven or Gradle build directories
+target/
+build/
+
+# Logs
+*.log
+*.out
+
+# Generated files
+*.iml
+*.ipr
+*.iws
+*.class
+
+# macOS files
+.DS_Store
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Sensitive files
+*.key
+*.pem
+*.crt
+
+# Database
+*.db
+*.sqlite
+
+# Environment variables
+.env
+
