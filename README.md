@@ -25,4 +25,4 @@ MoneyMagnet is a digital wallet system designed for secure transactions and effe
 
 1. Clone the repository:
    ```bash
-   git clone  https://github.com/Kalavathi18/money-magnet-wallet1.git
+   git clone https://github.com/Kalavathi18/money-magnet-wallet1
